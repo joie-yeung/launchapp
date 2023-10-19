@@ -1,0 +1,11 @@
+{% load static %}
+<link rel="stylesheet" href="{% static 'projects/style.css' %}">
+{% if project_list %}
+    <ul>
+    {% for project in project_list %}
+        <li><a href="{% url 'projects:description' project.proj_id %}">{{ project.name }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No projects are available.</p>
+{% endif %}
