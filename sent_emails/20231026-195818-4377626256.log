@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: yeung36@purdue.edu
+Date: Thu, 26 Oct 2023 19:58:18 -0000
+Message-ID: <169835029837.18135.17532165650821370732@Joies-MacBook-Air.local>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/bwp0t6-b143c141f7704bd21a05d1999a2179e4/
+
+Your username, in case you’ve forgotten: joieyeung
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
